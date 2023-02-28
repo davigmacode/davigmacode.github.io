@@ -12,7 +12,7 @@
         <svg><use xlink:href="#github"></use></svg>
         <span>github.com/davigmacode</span>
       </a>
-      <a class="contact" target="_blank" rel="noreferrer" href="#bandung">
+      <a class="contact" target="_blank" rel="noreferrer" href="https://goo.gl/maps/4aeSvToBMWpXZMMT8">
         <svg><use xlink:href="#location"></use></svg>
         <span>Bandung, Indonesia</span>
       </a>
