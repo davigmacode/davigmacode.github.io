@@ -3,7 +3,7 @@
     <img class="avatar" src="avatar.jpeg" alt="">
     <div>
       <div class="name">IRFAN VIGMA TAUFIK</div>
-      <div class="title">FULL-STACK ENGINEER</div>
+      <div class="title">FULL-STACK DEVELOPER</div>
       <a class="contact" target="_blank" rel="noreferrer" href="https://linkedin.com/in/davigmacode">
         <svg><use xlink:href="#linkedin"></use></svg>
         <span>in/davigmacode</span>
