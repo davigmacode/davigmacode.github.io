@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Irfan Vigma Taufik | Full-Stack Developer</title>
+</svelte:head>
+
 <section class="container">
   <div class="content">
     <img class="avatar" src="avatar.jpeg" alt="">
